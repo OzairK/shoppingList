@@ -1,6 +1,6 @@
 # CourseProject
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.3.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.3. This is a tutorial lecture for creating a shopping list that i am following
 
 ## Development server
 
